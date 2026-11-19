@@ -1,0 +1,20 @@
+{
+  "name": "STRATOS · סדנאות שענות בוטיק",
+  "short_name": "STRATOS",
+  "description": "סדנאות שענות מכנית פרטיות ועסקיות בישראל והרכבת שעונים בהתאמה אישית מבית STRATOS",
+  "dir": "rtl",
+  "lang": "he",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "theme_color": "#0B0D10",
+  "background_color": "#0B0D10",
+  "icons": [
+    {
+      "src": "./assets/brand/stratos-logo-silver.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
